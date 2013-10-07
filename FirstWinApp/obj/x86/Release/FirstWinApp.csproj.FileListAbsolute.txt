@@ -1,0 +1,8 @@
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\bin\Release\FirstWinApp.exe
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\bin\Release\FirstWinApp.pdb
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\FirstWinApp.Properties.Resources.resources
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\FirstWinApp.exe
+C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Release\FirstWinApp.pdb
