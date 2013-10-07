@@ -20,5 +20,18 @@ namespace FirstWinApp
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (this.radioButton1.Checked)
+            {
+                MessageBox.Show("Stoica e fraier!"); 
+            }
+            else
+            {
+                MessageBox.Show("Stoica nu e fraier!");
+            }
+
+        }
     }
 }

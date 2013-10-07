@@ -9,3 +9,10 @@ C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Debug\FirstWi
 C:\Users\elev\AppData\Local\Temporary Projects\FirstWinApp\obj\x86\Debug\FirstWinApp.Form1.resources
 C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\FirstWinApp.exe
 C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\FirstWinApp.pdb
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\bin\Debug\FirstWinApp.exe
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\bin\Debug\FirstWinApp.pdb
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\FirstWinApp.Form1.resources
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\FirstWinApp.Properties.Resources.resources
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\elev\Desktop\Alexandru Clapa\FirstWinApp\FirstWinApp\obj\x86\Debug\GenerateResource.write.1.tlog
