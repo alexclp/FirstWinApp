@@ -25,13 +25,18 @@ namespace FirstWinApp
         {
             if (this.radioButton1.Checked)
             {
-                MessageBox.Show("Stoica e fraier!"); 
+                MessageBox.Show("Raspuns corect!");
             }
             else
             {
-                MessageBox.Show("Stoica nu e fraier!");
+                MessageBox.Show("Raspuns gresit!");
             }
 
+        }
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ai dat click!");
         }
     }
 }
