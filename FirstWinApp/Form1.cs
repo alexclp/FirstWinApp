@@ -11,6 +11,8 @@ namespace FirstWinApp
 {
     public partial class Form1 : Form
     {
+        private bool changedColor = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -36,7 +38,17 @@ namespace FirstWinApp
 
         private void Form1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ai dat click!");
+            if (!this.changedColor)
+            {
+                this.changedColor = true;
+                this.BackColor = Color.IndianRed;
+            }
+            else
+            {
+                this.changedColor = false;
+                this.BackColor = Color.LemonChiffon;
+            }
+            MessageBox.Show("Changed color!");
         }
     }
 }
